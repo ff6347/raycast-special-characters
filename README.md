@@ -1,3 +1,5 @@
 # Special Characters
 
-Show a list of common special characters that are to hard to remember. Based on https://github.com/typefacts/alfred-special-characters/ 
+Based in the work of [typefacts](https://github.com/typefacts/alfred-special-characters/) Special Characters Alfred workflow. Ported to Raycast. All hail to the original author.
+
+Layout and images still WIP.
